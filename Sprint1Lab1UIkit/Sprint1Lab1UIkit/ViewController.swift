@@ -9,9 +9,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var leftParagraphLabel: UILabel!
+    @IBOutlet weak var rightParagraphLabel: UILabel!
+    @IBOutlet weak var imageView: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        leftParagraphLabel.text = "Apple es mejor que Android"
+        rightParagraphLabel.text = "Android es mejor que Apple"
+        imageView.image = UIImage(named: "AndroidVsApple")
+        
+        
+        
     }
 
 
