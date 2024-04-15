@@ -63,13 +63,13 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="igX-VU-CGY" firstAttribute="top" secondItem="FEn-1o-W4Z" secondAttribute="bottom" constant="2" id="4aB-Ay-PtM"/>
-                            <constraint firstItem="FEn-1o-W4Z" firstAttribute="centerX" secondItem="igX-VU-CGY" secondAttribute="centerX" id="7RJ-Lk-Ge6"/>
                             <constraint firstItem="igX-VU-CGY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="41" id="DZR-vd-USX"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="bQz-1d-sLi" secondAttribute="trailing" constant="120" id="J9v-0l-3mO"/>
                             <constraint firstItem="igX-VU-CGY" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="41" id="KaW-8N-3KU"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="igX-VU-CGY" secondAttribute="trailing" constant="40.333333333333314" id="XSa-MK-BUu"/>
                             <constraint firstItem="bQz-1d-sLi" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="Zd2-im-aj0"/>
                             <constraint firstItem="igX-VU-CGY" firstAttribute="top" secondItem="FEn-1o-W4Z" secondAttribute="bottom" constant="2" id="aME-34-2w2"/>
+                            <constraint firstItem="igX-VU-CGY" firstAttribute="top" secondItem="FEn-1o-W4Z" secondAttribute="bottom" constant="2" id="gHX-Gq-Wm9"/>
                             <constraint firstItem="bQz-1d-sLi" firstAttribute="top" secondItem="igX-VU-CGY" secondAttribute="bottom" constant="70" id="lvB-0d-Lrj"/>
                             <constraint firstItem="bQz-1d-sLi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="119" id="vtk-Zc-CTP"/>
                         </constraints>
